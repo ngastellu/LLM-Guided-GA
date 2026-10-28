@@ -1,7 +1,7 @@
 # LLM-Guided-GA
 ![LLM_GA(3)](https://user-images.githubusercontent.com/81431282/233686394-0a5158af-6733-494d-812a-abe9bc607ab2.png)
 
-Project made by Benjamin Weiser, Jerome Genzling, Nicolas Gastellu, Sylvester Zhang, Tao Liu and Alexander Alexander Al-Feghali, Department of Chemistry, McGill University, Montreal, Quebec; Canada
+Project made by Benjamin Weiser, Nicolas Gastellu, Jérôme Genzling, Sylvester Zhang, Tao Liu and Alexander Alexander Al-Feghali, Department of Chemistry, McGill University, Montreal, Quebec; Canada
 
 Part of McGill ChemAI submission to the first LLM Hackaton for Chemistry.
 
@@ -13,7 +13,7 @@ We used GPT-3.5-Turbo as our Main LLM model for this work. To try our model, you
 
 The LLM model used can be changed in the genLLM_ functions (more precisely in the OpenAi functions) accordingly to the OpenAI API documentation. 
 
-You can learn more about this project in our related paper : LINK OF THE PAPER
+You can learn more about this project in our related paper : https://pubs.rsc.org/dd/article/2/5/1233/804912/14-examples-of-how-LLMs-can-transform-materials
 
 ipynb file in files. Contains GA as well as LLM implementation.
 
