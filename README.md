@@ -1,7 +1,7 @@
 # LLM-Guided-GA
 ![LLM_GA(3)](https://user-images.githubusercontent.com/81431282/233686394-0a5158af-6733-494d-812a-abe9bc607ab2.png)
 
-Project made by Benjamin Weiser, Nicolas Gastellu, Jérôme Genzling, Sylvester Zhang, Tao Liu and Alexander Alexander Al-Feghali, Department of Chemistry, McGill University, Montreal, Quebec; Canada
+Project made by Benjamin Weiser, Jérôme Genzling, Nicolas Gastellu, Sylvester Zhang, Tao Liu and Alexander Alexander Al-Feghali, Department of Chemistry, McGill University, Montreal, Quebec; Canada
 
 Part of McGill ChemAI submission to the first LLM Hackaton for Chemistry.
 
@@ -13,8 +13,7 @@ We used GPT-3.5-Turbo as our Main LLM model for this work. To try our model, you
 
 ## Setting up your OpenAI API key
 
-You can create a key from your [OpenAI account](https://platform.openai.com/api-keys). Note that API usage is billed to your account.
-
+You can create a key from your [OpenAI account](https://platform.openai.com/api-keys).
 **Running locally**
 
 1. Install the dependency that loads the key: `pip install python-dotenv`
